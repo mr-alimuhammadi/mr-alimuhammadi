@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Alimuhammadi
-- 👀 I’m interested in Frontend, 3D in Web
+- 👀 I’m interested in Frontend, 3D in Web, HTML-Canvas
 - 🌱 I’m currently learning Software Engineering
 - 😄 Pronouns: Draco TLW
 
